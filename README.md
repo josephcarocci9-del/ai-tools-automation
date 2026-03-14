@@ -22,3 +22,12 @@ Maintained by Joseph Carocci.
 Run the automation script:
 
 python scripts/automation_example.py
+
+## Scripts Included
+
+- automation_example.py
+- prompt_generator.py
+- password_generator.py
+- file_organizer.py
+- system_info.py
+- task_generator.py
