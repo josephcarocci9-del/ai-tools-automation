@@ -29,6 +29,7 @@ The repository currently includes several automation and utility scripts:
 - File organization scripts
 - System information tools
 - Task suggestion utilities
+- ai_assistant.py — simple command-line AI assistant powered by the OpenAI API
 
 These tools are designed to be simple, practical and easy to extend.
 
@@ -59,6 +60,20 @@ Current scripts available in the toolkit:
 - `text_summarizer.py` — summarizes text content automatically
 
 These tools are designed to be lightweight, practical and easy to modify or extend for different automation workflows.
+
+---
+
+## AI Integration
+
+Some tools in this repository demonstrate how AI can be integrated into automation workflows.
+
+Example:
+
+Run the AI assistant tool:
+
+python scripts/ai_assistant.py
+
+This allows developers to experiment with AI-assisted automation directly from the command line.
 
 ---
 
