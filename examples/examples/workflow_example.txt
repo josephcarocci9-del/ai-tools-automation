@@ -1,8 +1,0 @@
-Goal: Launch a small open source project
-
-1. Define the project idea
-2. Create a GitHub repository
-3. Write a clear README
-4. Add initial scripts
-5. Define roadmap
-6. Invite contributors
