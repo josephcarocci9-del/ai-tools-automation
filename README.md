@@ -34,6 +34,18 @@ These tools are designed to be simple, practical and easy to extend.
 
 ---
 
+## Example Tools
+
+This repository contains several simple automation utilities designed for developers and productivity workflows.
+
+Some example use cases include:
+
+- generating secure passwords
+- organizing files automatically
+- generating prompts for AI tools
+- summarizing text content
+- displaying system information
+- generating suggested tasks
 ## Scripts Included
 
 Current scripts available in the toolkit:
