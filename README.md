@@ -38,14 +38,15 @@ These tools are designed to be simple, practical and easy to extend.
 
 Current scripts available in the toolkit:
 
-- `automation_example.py` — basic automation workflow example
-- `prompt_generator.py` — generates random prompts for experimentation
+- `automation_example.py` — simple automation workflow example
+- `file_organizer.py` — automatically organizes files into folders
 - `password_generator.py` — generates secure random passwords
-- `file_organizer.py` — organizes files automatically
-- `system_info.py` — displays system environment information
+- `prompt_generator.py` — generates prompts for AI experimentation
+- `system_info.py` — displays system and environment information
 - `task_generator.py` — generates suggested development tasks
+- `text_summarizer.py` — summarizes text content automatically
 
-More scripts and automation utilities will be added as the project evolves.
+These tools are designed to be lightweight, practical and easy to modify or extend for different automation workflows.
 
 ---
 
