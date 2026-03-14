@@ -34,7 +34,9 @@ The repository currently includes several automation and utility scripts:
 - System information tools
 - Task suggestion utilities
 - ai_assistant.py — simple command-line AI assistant powered by the OpenAI API
-
+- code_explainer.py — explains code using AI
+- email_generator.py — generates professional emails using AI
+- task_planner.py — creates step-by-step plans using AI
 These tools are designed to be simple, practical and easy to extend.
 
 ---
