@@ -38,7 +38,8 @@ The repository currently includes several automation and utility scripts:
 - email_generator.py — generates professional emails using AI
 - task_planner.py — creates step-by-step plans using AI
 These tools are designed to be simple, practical and easy to extend.
-
+- python scripts/workflow_planner.py
+  
 ---
 
 ## Example Tools
