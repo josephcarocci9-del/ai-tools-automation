@@ -23,6 +23,21 @@ The main goals of this project are:
 
 ---
 
+## AI Automation Assistant
+
+Main CLI tool powered by the OpenAI API.
+
+Run:
+
+python scripts/ai_assistant.py
+
+Features:
+- code explanation
+- text summarization
+- email generation
+- workflow planning
+- AI prompt generation
+  
 ## Features
 
 The repository currently includes several automation and utility scripts:
