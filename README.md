@@ -1,5 +1,9 @@
 # AI Automation Tools
 
+![Python](https://img.shields.io/badge/python-3.x-blue)
+![Open Source](https://img.shields.io/badge/open--source-yes-green)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
 AI Automation Tools is an open source toolkit designed to help developers automate repetitive tasks and improve productivity through simple automation scripts and experimental AI-powered workflows.
 
 The project focuses on providing practical utilities that simplify everyday development tasks, automate common workflows and explore how AI can assist in automation and developer productivity.
